@@ -1,0 +1,25 @@
+Dataset Manifest
+================
+
+Original Dataset
+----------------
+Name:
+SoCal28Bus Digital Twin Dataset
+
+Availability:
+Not included in this repository.
+
+Reason:
+The dataset was obtained under restricted academic access and cannot be redistributed.
+
+Repository Contents
+-------------------
+This repository includes:
+
+- Complete forecasting notebook
+- Evaluation outputs
+- Dissertation
+- Supporting documentation
+- Presentation slides
+
+Users wishing to reproduce the work should obtain access to the original dataset from the appropriate data provider.

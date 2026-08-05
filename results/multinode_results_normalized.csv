@@ -1,0 +1,2 @@
+Model,Nodes,Total Samples,Train,Val,Test,Features,Lookback,Horizon,Training Time (min),Overall RMSE,Overall MAE,Overall MAPE,Overall R2,Inference (ms/sample)
+Multi-Node CNN-Transformer,Bus 1 + Bus 2,43927,30748,6589,6590,24,60,6,11.33,0.13901,0.077365,27785920.97,0.76199,0.5

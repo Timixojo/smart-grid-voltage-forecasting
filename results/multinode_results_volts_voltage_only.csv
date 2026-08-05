@@ -1,0 +1,2 @@
+Model,Nodes,Targets,Overall RMSE (V),Overall MAE (V),Overall R2
+Multi-Node CNN-Transformer,Bus 1 + Bus 2,Bus1 RMS L1–L3 + Bus2 RMS L1–L3,3.4823927615509156,0.523995421835708,0.07734355636986401
